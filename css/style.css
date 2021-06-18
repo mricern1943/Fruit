@@ -1,0 +1,18 @@
+html,
+body,
+header,
+#intro {
+    height: 100%;
+}
+
+#intro {
+    background: url("http://s1.1zoom.me/b5751/257/Fruit_Pitaya_Avocado_Grapes_Apples_White_523674_1920x1080.jpg")no-repeat center center fixed;
+    -webkit-background-size: cover; /* 针对Chrome, Safari, Edge等浏览器 */
+    -moz-background-size: cover;    /* 针对Firefox浏览器 */
+    -o-background-size: cover;      /* 针对Operallq */
+    background-size: cover;         /* 通用 */
+}
+
+.top-nav-collapse {
+  background-color: #24355C;
+}
